@@ -1,9 +1,6 @@
 {
   "name": "blockchain-demo",
-  "description": "A web-based demonstration of blockchain concepts.",
-  "author": {
-    "name": "Anders Brownworth"
-  },
+  "description": "A Web-based demonstration of Blockchain PoC Proof Of Concepts.",
   "version": "0.0.1",
   "keywords": [
     "blockchain",
@@ -12,10 +9,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anders94/blockchain-demo.git"
+    "url": "git+https://github.com/smartbiz/blockchain-demo.git"
   },
   "bugs": {
-    "url": "https://github.com/anders94/blockchain-demo/issues"
+    "url": "https://github.com/smartbiz/blockchain-demo/issues"
   },
   "license": "MIT",
   "dependencies": {
@@ -28,11 +25,11 @@
     "debug": "~2.2.0",
     "jade": "~1.11.0"
   },
-  "homepage": "https://github.com/anders94/blockchain-demo#readme",
+  "homepage": "https://github.com/smartbiz/blockchain-demo#readme",
   "maintainers": [
     {
-      "name": "anders",
-      "email": "anders-git@evantide.com"
+      "name": "Digital Business",
+      "email": "digital@smartbiz.vn"
     }
   ]
 }

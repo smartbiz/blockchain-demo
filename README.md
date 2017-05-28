@@ -1,30 +1,30 @@
 # Blockchain Demo
-A web-based demonstration of blockchain concepts.
+A Web-based demonstration of Blockchain PoC Proof of Concepts.
 
 [![Blockchain 101 - Demo](https://img.youtube.com/vi/_160oMzblY8/0.jpg)](https://www.youtube.com/watch?v=_160oMzblY8)
 
 This is a very basic visual introduction to the concepts behind a blockchain. We introduce 
 the idea of an immutable ledger using an interactive web demo that is available here:
 
-http://anders.com/blockchain/
+http://smartbiz.vn/blockchain/
 
 ## Setup
 Get the code:
 
 ```
-git clone https://github.com/anders94/blockchain-demo.git
+ sudo git clone https://github.com/smartbiz/blockchain-demo.git
 ```
 
 Install dependencies:
 
 ```
-cd blockchain-demo
-npm install
+ cd blockchain-demo
+ sudo npm install
 ```
 Run the server:
 
 ```
-./bin/www
+ sudo ./bin/www
 ```
 
 Point a web browser at the demo:
@@ -38,7 +38,7 @@ http://localhost:3000
 Get the code:
 
 ```
-git clone https://github.com/anders94/blockchain-demo.git
+git clone https://github.com/smartbiz/blockchain-demo.git
 ```
 
 Run the Docker setup:
