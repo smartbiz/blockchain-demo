@@ -55,4 +55,4 @@ http://localhost:3000
 ```
 
 ## Send Thanks
-Bitcoin greatfully accepted: `1K3NvcuZzVTueHW1qhkG2Cm3viRkh2EXJp`
+Bitcoin greatfully accepted: `1f437e40-cdfa-42c7-ae57-c0b73a9f750b`
